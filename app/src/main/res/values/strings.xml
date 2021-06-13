@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoyaltyApp</string>
+    <string name="btn_notification_text">Notify me</string>
+    <string name="btn_notification2_text">...once more</string>
+    <string name="order_channel_id">CHANNEL_ORDER</string>
+    <string name="order_channel_name">Order Updates</string>
+    <string name="order_channel_description">Receive status updates of pending orders</string>
+    <string name="ntfcn1_title">Order status update</string>
+    <string name="ntfcn1_text">Your new car has just left the factory</string>
+    <string name="ntfcn2_sub_text">niklas@vw-berlin.de</string>
+    <string name="ntfcn2_title">Order status update</string>
+    <string name="ntfcn2_text">Your car just left the factory - expand for more</string>
+    <string name="ntfcn2_big_text">Hi Alex, your new VW ID.4 Performance Pro
+        just notified us that it left the factory. We expect it to arrive in Berlin
+        on <b>01 Jul 2021</b>.<br> </br>Tap this message to schedule your onboarding
+        directly in the App!</string>
+    <string name="ntfcn2_action_dismiss">Dismiss</string>
+    <string name="ntfcn2_action_snooze">Snooze</string>
+</resources>
