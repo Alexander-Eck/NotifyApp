@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">LoyaltyApp</string>
     <string name="btn_notification_text">Notify me</string>
-    <string name="btn_notification2_text">...once more</string>
+    <string name="btn_notification2_text">…once more</string>
     <string name="order_channel_id">CHANNEL_ORDER</string>
     <string name="order_channel_name">Order Updates</string>
     <string name="order_channel_description">Receive status updates of pending orders</string>
@@ -16,4 +16,7 @@
         directly in the App!</string>
     <string name="ntfcn2_action_dismiss">Dismiss</string>
     <string name="ntfcn2_action_snooze">Snooze</string>
+    <string name="text_view_ntfcn_text">We will surely implement some clever function
+        - for now, tap the \'Home\' button :)</string>
+    <string name="btn_back_text">Home</string>
 </resources>
