@@ -6,7 +6,7 @@ Android App that showcases Notification.Builder() - requires API Level 26+
 > This is not production code.
 
 The most important lines of code are
-[MainActivity.java#L65](https://github.com/Alexander-Eck/NotifyApp/blob/08a501aa2913e10a19c3a649f490683c4ad48da0/app/src/main/java/com/logicloop/notifyapp/MainActivity.java#L65)
+[MainActivity.java#L63](https://github.com/Alexander-Eck/NotifyApp/blob/7b05f7c31c1e05796a15cedb7b3aaab161fc6731/app/src/main/java/com/logicloop/notifyapp/MainActivity.java#L63)
 :
 ```java
 Notification notification =
@@ -21,7 +21,7 @@ Notification notification =
 ```
 
 ...and
-[MainActivity.java#L135](https://github.com/Alexander-Eck/NotifyApp/blob/08a501aa2913e10a19c3a649f490683c4ad48da0/app/src/main/java/com/logicloop/notifyapp/MainActivity.java#L135)
+[MainActivity.java#L130](https://github.com/Alexander-Eck/NotifyApp/blob/7b05f7c31c1e05796a15cedb7b3aaab161fc6731/app/src/main/java/com/logicloop/notifyapp/MainActivity.java#L130)
 :
 ```java
  Notification notification2 =
